@@ -1,0 +1,1 @@
+export const CHANGE_GAMELIST = "CHANGE_GAMELIST"
